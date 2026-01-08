@@ -4,10 +4,8 @@
 
 This repository supports the analyses and visualizations for the manuscript:
 
-> Jiang C., Song Y., *et al.* (2025). **Innate immunity and the NF-κB pathway control prostate stem cell
-plasticity, reprogramming and tumor initiation.** _Nature Cancer_. **Accepted**, currently in final proof stage.
-
-A DOI and link to the final publication will be provided here once available.
+> Jiang C., Song Y., *et al.* (2025). [Innate immunity and the NF-κB pathway control prostate stem cell
+plasticity, reprogramming and tumor initiation.](https://www.nature.com/articles/s43018-025-00994-3) _Nature Cancer_, 2025 Sep;6(9):1537-1558.
 
 ---
 
