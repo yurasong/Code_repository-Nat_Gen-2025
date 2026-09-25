@@ -1,4 +1,4 @@
-# ProstatePlasticity-Workbench
+# Innate immunity and the NF-κB pathway control prostate stem cell plasticity, reprogramming and tumor initiation
 
 **Publication**
 
